@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/itsuki-sokoyo",
  "yomi": "いつきそうようしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "安政4年（1857）11月序",
+  "author": "原久胤",
+  "desc": "久胤の家集。四季・恋・雑の歌に文章部を添える。藤原忠寛の序は、古言を並べて巧みを求める歌を退け、久胤の歌の調べの高さとその人柄をたたえる。"
+ },
  "editions": [
   {
    "pid": "993386",
